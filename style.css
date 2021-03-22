@@ -1,5 +1,50 @@
-body {
+body 
+{
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+header
+{
+  text-align: center;
+}
+
+nav a
+{
+  padding: 10px;
+  background-color: grey;
+}
+
+#featured-property p
+{
+  width: 800px;
+  color: red;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption
+{
+  text-align: center;
+  font-size: smaller;
+}
+
+div
+{
+  background-color: hotpink;
+  text-align: center;
+  float: left;
+  width: 25%;
 }
